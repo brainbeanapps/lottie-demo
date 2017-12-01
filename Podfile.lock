@@ -1,0 +1,15 @@
+PODS:
+  - keyframes (1.1.0)
+  - lottie-ios (2.1.5)
+
+DEPENDENCIES:
+  - keyframes
+  - lottie-ios
+
+SPEC CHECKSUMS:
+  keyframes: d64fa3176e54a31d8aba7932a6be23b039251462
+  lottie-ios: 836cdbba92f62f3c6a00e37a4ce485321fe317cf
+
+PODFILE CHECKSUM: d520bca88a5fe8c3b3e6a0935264392068944e08
+
+COCOAPODS: 1.3.1
